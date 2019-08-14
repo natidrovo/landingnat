@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Icono 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F6AF8E" offset="0%"></stop>
+            <stop stop-color="#EA7755" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="10.5" cy="10.5" r="10.5"></circle>
+        <filter x="-26.2%" y="-26.2%" width="161.9%" height="161.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.246631567 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-723.000000, -767.000000)">
+            <g id="Ventajas" transform="translate(160.000000, 688.000000)">
+                <g id="Ventaja-3" transform="translate(480.000000, 63.000000)">
+                    <g id="Icono-3" transform="translate(83.000000, 16.000000)">
+                        <circle id="Oval-Copy-5" fill="#959595" cx="36" cy="36" r="36"></circle>
+                        <circle id="Oval" fill="#585858" cx="36" cy="36" r="21"></circle>
+                        <path d="M18.518997,47.8920752 C22.1521433,53.3933293 28.2916836,57 35.475,57 C47.0729797,57 57,47.5979797 57,36 C57,24.4020203 47.5979797,15 36,15 C24.4020203,15 15,24.4020203 15,36" id="Path" stroke="#EA7755" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(36.000000, 36.000000) rotate(90.000000) translate(-36.000000, -36.000000) "></path>
+                        <g id="Boton-Icono" transform="translate(26.000000, 26.000000)">
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            </g>
+                            <path d="M5,11.578125 L5,8.296875 C5,7.7532197 5.4407197,7.3125 5.984375,7.3125 L6.3125,7.3125 L6.3125,6.984375 C6.3125,6.4407197 6.7532197,6 7.296875,6 C7.8405303,6 8.28125,6.4407197 8.28125,6.984375 L8.28125,8.953125 L12.21875,8.953125 L12.21875,6.984375 C12.21875,6.4407197 12.6594697,6 13.203125,6 C13.7467803,6 14.1875,6.4407197 14.1875,6.984375 L14.1875,7.3125 L14.515625,7.3125 C15.0592803,7.3125 15.5,7.7532197 15.5,8.296875 L15.5,11.578125 C15.5,12.1217803 15.0592803,12.5625 14.515625,12.5625 L14.1875,12.5625 L14.1875,12.890625 C14.1875,13.4342803 13.7467803,13.875 13.203125,13.875 C12.6594697,13.875 12.21875,13.4342803 12.21875,12.890625 L12.21875,10.921875 L8.28125,10.921875 L8.28125,12.890625 C8.28125,13.4342803 7.8405303,13.875 7.296875,13.875 C6.7532197,13.875 6.3125,13.4342803 6.3125,12.890625 L6.3125,12.5625 L5.984375,12.5625 C5.4407197,12.5625 5,12.1217803 5,11.578125 Z" id="Path" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

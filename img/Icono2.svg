@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Icono 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F6AF8E" offset="0%"></stop>
+            <stop stop-color="#EA7755" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-476.000000, -767.000000)">
+            <g id="Ventajas" transform="translate(160.000000, 688.000000)">
+                <g id="Ventaja-2" transform="translate(240.000000, 63.000000)">
+                    <g id="Icono-2" transform="translate(76.000000, 16.000000)">
+                        <circle id="Oval" fill="#959595" cx="36" cy="36" r="36"></circle>
+                        <circle id="Oval-Copy" fill="url(#linearGradient-1)" cx="36.5" cy="36.5" r="20.5"></circle>
+                        <path d="M38.4477409,33.9402724 L42.0170033,33.9402724 C45.1579542,33.9402724 45.1579542,38.4477409 42.0170033,38.4477409 L38.4477409,38.4477409 L38.4477409,42.0170033 C38.4477409,45.1579542 33.9402724,45.1579542 33.9402724,42.0170033 L33.9402724,38.4477409 L30.37101,38.4477409 C27.2096633,38.4477409 27.2096633,33.9402724 30.37101,33.9402724 L33.9402724,33.9402724 L33.9402724,30.37101 C33.9402724,27.2096633 38.4477409,27.2096633 38.4477409,30.37101 L38.4477409,33.9402724 Z" id="Path" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
