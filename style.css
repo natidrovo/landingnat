@@ -10,7 +10,7 @@ body {
     background: -ms-linear-gradient(top, rgba(234,120,85,1) 8%, rgba(234,120,85,0.72) 34%, rgba(255,206,133,0) 100%); */
     /* background: linear-gradient(to bottom, rgba(234,120,85,1) 8%, rgba(234,120,85,0.72) 34%, rgba(255,206,133,0) 100%); */
     /* filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ea7855', endColorstr='#ffce85', GradientType=0 ); */
-    font-family: 'Tenor Sans', sans-serif;
+    font-family: 'Rubik', sans-serif;
 
 }
 
@@ -252,5 +252,5 @@ footer {
     margin: 0 40px;
     display: flex;
     padding-right: 40px;
-   justify-content: flex-end;
+    justify-content: flex-end;
 }
